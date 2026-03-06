@@ -23,13 +23,13 @@ Clean and maintainable backend architecture
 
 ### Tech Stack
 
-# Backend
+#### Backend
 
 Python
 
 Django
 
-# Frontend
+#### Frontend
 
 HTML
 
@@ -37,11 +37,11 @@ CSS
 
 Bootstrap
 
-# Database
+#### Database
 
 SQLite (default Django database)
 
-# Tools
+#### Tools
 
 Git
 
